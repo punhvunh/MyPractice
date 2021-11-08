@@ -1,0 +1,20 @@
+2021-11-03 10:33:59 [main] INFO  by.epam.learn.log.LogMain - info first prg
+2021-11-03 10:33:59 [main] WARN  by.epam.learn.log.LogMain - Warning! Loggers!
+2021-11-03 10:33:59 [main] ERROR by.epam.learn.log.LogMain - runtime
+java.lang.RuntimeException: Exception 1
+	at by.epam.learn.log.LogMain.main(LogMain.java:13) [MyPrctice/:?]
+2021-11-03 10:35:06 [main] INFO  Log_File - info first prg
+2021-11-03 10:35:06 [main] WARN  Log_File - Warning! Loggers!
+2021-11-03 10:35:06 [main] ERROR Log_File - runtime
+java.lang.RuntimeException: Exception 1
+	at by.epam.learn.log.LogMain.main(LogMain.java:13) [MyPrctice/:?]
+2021-11-03 10:42:29 [main] INFO  by.epam.learn.log.LogMain - info first prg
+2021-11-03 10:42:29 [main] WARN  by.epam.learn.log.LogMain - Warning! Loggers!
+2021-11-03 10:42:29 [main] ERROR by.epam.learn.log.LogMain - runtime
+java.lang.RuntimeException: Exception 1
+	at by.epam.learn.log.LogMain.main(LogMain.java:13) [MyPrctice/:?]
+2021-11-03 10:42:54 [main] INFO  by.epam.learn.log.LogMain - info first prg
+2021-11-03 10:42:54 [main] WARN  by.epam.learn.log.LogMain - Warning! Loggers!
+2021-11-03 10:42:54 [main] ERROR by.epam.learn.log.LogMain - runtime
+java.lang.RuntimeException: Exception 1
+	at by.epam.learn.log.LogMain.main(LogMain.java:13) [MyPrctice/:?]

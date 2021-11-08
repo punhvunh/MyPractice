@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+ <object class="by.epam.learn.classes.javabeanwithxml.Order">
+  <void property="amount">
+   <double>15.0</double>
+  </void>
+  <void property="orderId">
+   <long>11</long>
+  </void>
+ </object>
+</java>
